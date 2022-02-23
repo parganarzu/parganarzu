@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/arzupt" target="blank"><img src="https://img.shields.io/twitter/follow/arzupt?logo=twitter&style=for-the-badge" alt="arzupt" /></a> </p>
 
-- ⚓  I’m currently working on TÜBİTAK **MÜREN PREVEZE SYS - Denizaltı Savaş Yönetim Sistemi**
+- ⚓  I’m currently working on TÜBİTAK **MÜREN PREVEZE SYS - Denizaltı Savaş Yönetim Sistemi (Combat Management System)**
 
 - 🌱 I’m currently learning **Spring Framework, Deep C++**
 
