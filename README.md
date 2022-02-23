@@ -24,9 +24,10 @@
 
 ![snake svg](https://github.com/parganarzu/parganarzu/blob/output/github-contribution-grid-snake.svg)
 
-          | |                        (_)           
+  
+                   | |                        (_)           
  ___ _   _| |__  _ __ ___   __ _ _ __ _ _ __   ___ 
 / __| | | | '_ \| '_ ` _ \ / _` | '__| | '_ \ / _ \
 \__ \ |_| | |_) | | | | | | (_| | |  | | | | |  __/
 |___/\__,_|_.__/|_| |_| |_|\__,_|_|  |_|_| |_|\___|
-                                                   
+                                                                                             
