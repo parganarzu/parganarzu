@@ -24,6 +24,5 @@
 
 ![snake svg](https://github.com/parganarzu/parganarzu/blob/output/github-contribution-grid-snake.svg)
 
-![alt text](https://github.com/parganarzu/parganarzu/blob/output/submarine.jpg?raw=true)
-                
+Submarine Emoticon                
                     
